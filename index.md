@@ -3,7 +3,7 @@
 ## Contact Information:
 
 #### Zhanghui is with School of Robotics, Hunan University, Changsha 410000, China.
-#### please drop me a message by email
+#### Please drop me a message by email.
 
 - Email: zhanghuihby@126.com
 
