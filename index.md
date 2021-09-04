@@ -2,8 +2,9 @@
 
 ## Contact Information:
 
-#### Zhanghui is with the Robotic School, Hunan University, Changsha 410000, China.
-please drop me a message by email
+#### Zhanghui is with School of Robotics, Hunan University, Changsha 410000, China.
+#### please drop me a message by email
+
 - Email: zhanghuihby@126.com
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
