@@ -14,7 +14,7 @@
 - Yurong Chen, **Hui Zhang**, Yaonan Wang, Yimin Yang, Xianen Zhou, QM Jonathan Wu, “MAMA Net: Multi-scale Attention Memory Autoencoder Network for Anomaly Detection,” IEEE Transactions on Medical Imaging, vol. 40, no. 3, pp. 1032-1041, 2021.
 - **Hui Zhang**, et al. Deep Multi-model Cascade Method Based on CNN and Random Forest for Pharmaceutical Particle Detection. IEEE Transactions on Instrumentation and Measurement (2020).
 - **Hui Zhang**, et al. "A fast detection and grasping method for mobile manipulator based on improved faster R-CNN." Industrial Robot: the international journal of robotics research and application (2020).
-- Jin, Xiating, Yaonan Wang , **Zhang Hui** et al. DM-RIS: Deep Multi-model Rail Inspection System with Improved MRF-GMM and CNN. IEEE Transactions on Instrumentation and Measurement (2019).
+- Jin, Xiating, Yaonan Wang , **Hui Zhang** et al. DM-RIS: Deep Multi-model Rail Inspection System with Improved MRF-GMM and CNN. IEEE Transactions on Instrumentation and Measurement (2019).
 - **Hui Zhang**, et al. Automated machine vision system for liquid particle inspection of pharmaceutical injection. IEEE Transactions on Instrumentation and Measurement 67.6 (2018): 1278-1297.
 - **Hui Zhang**, et al. Automatic visual detection system of railway surface defects with curvature filter and improved Gaussian mixture model. IEEE Transactions on Instrumentation and Measurement 67.7 (2018): 1593-1608.
  
