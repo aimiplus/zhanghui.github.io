@@ -8,38 +8,15 @@
 - Email-1: zhanghuihby@126.com
 - Email-2：14517424@qq.com
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-## Publication
+## Publication：
 - Yurong Chen, **Hui Zhang**, Weixin Peng, Wandong Zhang, Q.M. Jonathan Wu, Yimin Yang, "D-BIN: A Generalized Disentangling Batch Instance Normalization for Domain Adaptation," _IEEE Transactions on Cybernetics_, accepted, 2021.
 - **Hui Zhang**, Yanan Song, Yurong Chen, Hang Zhong, Li Liu, Yaonan Wang, Thangarajah Akilan, QM Jonathan Wu, "MRSDI-CNN: Multi-Model Rail Surface Defect Inspection System Based on Convolutional Neural Networks," _IEEE Transactions on Intelligent Transportation Systems_, 2021.
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aimiplus/zhanghui.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Yurong Chen, **Hui Zhang**, Yaonan Wang, Yimin Yang, Xianen Zhou, QM Jonathan Wu, “MAMA Net: Multi-scale Attention Memory Autoencoder Network for Anomaly Detection,” IEEE Transactions on Medical Imaging, vol. 40, no. 3, pp. 1032-1041, 2021.
+- **Hui Zhang**, et al. Deep Multi-model Cascade Method Based on CNN and Random Forest for Pharmaceutical Particle Detection. IEEE Transactions on Instrumentation and Measurement (2020).
+- **Hui Zhang**, et al. "A fast detection and grasping method for mobile manipulator based on improved faster R-CNN." Industrial Robot: the international journal of robotics research and application (2020).
+- Jin, Xiating, Yaonan Wang , **Zhang Hui** et al. DM-RIS: Deep Multi-model Rail Inspection System with Improved MRF-GMM and CNN. IEEE Transactions on Instrumentation and Measurement (2019).
+- **Hui Zhang**, et al. Automated machine vision system for liquid particle inspection of pharmaceutical injection. IEEE Transactions on Instrumentation and Measurement 67.6 (2018): 1278-1297.
+- **Hui Zhang**, et al. Automatic visual detection system of railway surface defects with curvature filter and improved Gaussian mixture model. IEEE Transactions on Instrumentation and Measurement 67.7 (2018): 1593-1608.
+ 
+## Brief Bio:
+Hui Zhang (Member, IEEE) received the B.S., M.S., and Ph.D. degrees in pattern recognition and intelligent system from Hunan University, Changsha, China, in 2004, 2007, and 2012, respectively. As a pubilc visiting scholar, He went to the University of Windsor,Canada, for one year in 2017. He is now a Prof with National Engineering Laboratory of Robot Visual Perception and Control Technology, School of Robotics, Hunan University, Changsha, China.His current research interests include machine vision, deep learning, and defect detection.
