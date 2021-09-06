@@ -5,11 +5,14 @@
 #### Zhanghui is with School of Robotics, Hunan University, Changsha 410000, China.
 #### Please drop me a message by email.
 
-- Email: zhanghuihby@126.com
+- Email-1: zhanghuihby@126.com
+- Email-2：14517424@qq.com
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Publication
+- Yurong Chen, **Hui Zhang**, Weixin Peng, Wandong Zhang, Q.M. Jonathan Wu, Yimin Yang, "D-BIN: A Generalized Disentangling Batch Instance Normalization for Domain Adaptation," _IEEE Transactions on Cybernetics_, accepted, 2021.
+- **Hui Zhang**, Yanan Song, Yurong Chen, Hang Zhong, Li Liu, Yaonan Wang, Thangarajah Akilan, QM Jonathan Wu, "MRSDI-CNN: Multi-Model Rail Surface Defect Inspection System Based on Convolutional Neural Networks," _IEEE Transactions on Intelligent Transportation Systems_, 2021.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
