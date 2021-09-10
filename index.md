@@ -9,7 +9,7 @@
 - Email-2：14517424@qq.com
 
 ## Publication：
-- **Hui Zhang**, Zhicong Liang; Chen Li, et al. A Practical Robotic Grasping Method by Using 6D Pose Estimation with Protective Correction, IEEE Transactions on Industrial Electronics, 2021,doi: 10.1109/TIE.2021.3075836.
+- **Hui Zhang**, Zhicong Liang; Chen Li, et al. [A Practical Robotic Grasping Method by Using 6D Pose Estimation with Protective Correction](https://ieeexplore.ieee.org/document/9422206), IEEE Transactions on Industrial Electronics, 2021,doi: 10.1109/TIE.2021.3075836.
 - Yurong Chen, **Hui Zhang**, Weixin Peng, Wandong Zhang, Q.M. Jonathan Wu, Yimin Yang, "D-BIN: A Generalized Disentangling Batch Instance Normalization for Domain Adaptation," _IEEE Transactions on Cybernetics_, accepted, 2021.
 - **Hui Zhang**, Yanan Song, Yurong Chen, Hang Zhong, Li Liu, Yaonan Wang, Thangarajah Akilan, QM Jonathan Wu, "MRSDI-CNN: Multi-Model Rail Surface Defect Inspection System Based on Convolutional Neural Networks," _IEEE Transactions on Intelligent Transportation Systems_, 2021.
 - Yurong Chen, **Hui Zhang**, Yaonan Wang, Yimin Yang, Xianen Zhou, QM Jonathan Wu, “MAMA Net: Multi-scale Attention Memory Autoencoder Network for Anomaly Detection,” IEEE Transactions on Medical Imaging, vol. 40, no. 3, pp. 1032-1041, 2021.
