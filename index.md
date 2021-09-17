@@ -6,7 +6,7 @@
 #### Please drop me a message by email.
 
 - Email-1: zhanghuihby@126.com
-- Email-2：zhanghui1983@hnu.edu.cn
+- Email-2: zhanghui1983@hnu.edu.cn
 
 ## Publication：
 - **Hui Zhang**, Zhicong Liang; Chen Li, et al. [A Practical Robotic Grasping Method by Using 6D Pose Estimation with Protective Correction](https://ieeexplore.ieee.org/document/9422206), IEEE Transactions on Industrial Electronics, 2021,doi: 10.1109/TIE.2021.3075836.
